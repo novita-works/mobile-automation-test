@@ -16,5 +16,5 @@ Use the following desired capabilities configuration to set up Appium Inspector 
 ```
 
 ### Link Record
-  [![You can watch the recording of the test at the following link:](https://drive.google.com/file/d/1Jjn9T1AF65RQTjVIKIwqvqYLAWAV6i1J/view?usp=sharing)
+  [![You can watch the recording of the test at this following link](https://drive.google.com/file/d/1Jjn9T1AF65RQTjVIKIwqvqYLAWAV6i1J/view?usp=sharing)
 
